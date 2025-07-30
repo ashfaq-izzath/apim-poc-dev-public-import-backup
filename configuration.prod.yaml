@@ -1,0 +1,6 @@
+apimServiceName: apim-poc-dev-public-import
+namedValues: 
+loggers:
+diagnostics:
+backends:
+apis:
